@@ -1,0 +1,27 @@
+/*
+Theme Name: Camille Blin
+Author: Camille Blin
+Author URI: Not yet
+Version: 0.8
+*/
+body{
+  background-color: #000;
+}
+
+navbar{
+  border-color: #FFF;
+}
+
+#topfix{
+  margin-top: 50px;
+}
+
+img{
+  width:100%;
+  height:100%;
+}
+
+.footer{
+  margin-top: 10px;
+  color:#999;
+}
